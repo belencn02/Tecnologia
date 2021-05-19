@@ -1,0 +1,38 @@
+﻿
+
+h1 {
+  border: 8px outset #601728;
+    font: 55px Didot;
+  text-align: center;
+}
+body {
+  font-family: verdana;
+  font-size: 20px;
+  background:#FBC0D8;
+  margin: auto;
+  width: 90%;
+  padding: 10px;
+text-align:center;
+}
+table {
+  text-align:center;
+  border=1px;
+  width: 500px;
+  height: 150px;
+  
+ 
+}
+div {
+  width="600" height="400"
+  text-align: center;
+  padding: 30px 0;
+  text-align: center;
+}
+
+video {
+  width="600" height="400";
+}
+img{
+  width=100px;
+  height=100PX;
+}  
